@@ -1,7 +1,7 @@
 # logconsole
 Change output of Node.JS console to log4net format
 
-#Usage
+## Usage
 
 ```
 var console = require('logconsole'); //replaces standart console
