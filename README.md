@@ -1,4 +1,3 @@
-# logconsole
 Change output of Node.JS console to log4net format
 
 ## Usage
